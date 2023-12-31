@@ -1,0 +1,4 @@
+[submodule "WebGLSamples.github.io"]
+	path = WebGLSamples.github.io
+	url = git@github.com:catmajor/WebGLSamples.github.io.git
+	branch = webvr-to-webxr
